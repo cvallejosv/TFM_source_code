@@ -1,6 +1,6 @@
 # Análisis Estadístico de Precipitaciones Máximas Diarias en la Comunidad Valenciana
 
-Este repositorio contiene el código en R utilizado para el desarrollo del Trabajo Final de Máster. A continuación, se ofrece una breve descripción de los archivos incluidos. Para más detalles sobre la funcionalidad y uso de cada script, se recomienda consultar la documentación incorporada al inicio de cada archivo.
+Este repositorio contiene el código R utilizado para el desarrollo del Trabajo Final de Máster. A continuación, se ofrece una breve descripción de los archivos incluidos. Para más detalles sobre la funcionalidad y uso de cada script, se recomienda consultar la documentación incorporada al inicio de cada archivo.
 
 #### `8416_pmax_analysis.R`
 
