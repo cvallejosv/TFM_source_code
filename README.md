@@ -9,7 +9,7 @@ Este script genera dos gráficos para analizar las precipitaciones máximas diar
 - **Gráfico (a):** Serie temporal que muestra la evolución de las precipitaciones máximas diarias a lo largo de los años, incluyendo una línea de referencia en 150 mm.
 - **Gráfico (b):** Histograma de frecuencias relativas de las precipitaciones máximas diarias.
 
----
+
 
 ### `8416_pp_qq_plots.R`
 
@@ -20,7 +20,7 @@ Se generan los siguientes gráficos para evaluar visualmente la calidad del ajus
 - **Gráfico Q-Q:** Cuantiles empíricos vs. cuantiles teóricos.
 - **Gráfico P-P:** Probabilidades empíricas vs. probabilidades teóricas.
 
----
+
 
 ### `create_maps.R`
 
@@ -58,4 +58,6 @@ Este script genera dos gráficos que comparan las funciones de densidad de la di
 
 ---
 
-Por último, la carpeta `data` incluye los archivos necesarios para ejecutar algunos de los scripts mencionados anteriormente.
+### Carpeta `data`
+
+Contiene los archivos de datos necesarios para ejecutar algunos de los scripts descritos anteriormente.
