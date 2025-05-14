@@ -58,6 +58,6 @@ Este script genera dos gráficos que comparan las funciones de densidad de la di
 
 
 
-#### Carpeta `data`
+#### `data`
 
 Contiene los archivos de datos necesarios para ejecutar algunos de los scripts descritos anteriormente.
