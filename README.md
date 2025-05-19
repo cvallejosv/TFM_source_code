@@ -60,4 +60,4 @@ Este script genera dos gráficos que comparan las funciones de densidad de la di
 
 #### `data`
 
-Contiene los archivos de datos necesarios para ejecutar algunos de los scripts descritos anteriormente.  La información utilizada para generar dichos archivos fue proporcionada por la Agencia Estatal de Meteorología (AEMET).
+Contiene los archivos de datos necesarios para ejecutar algunos de los scripts descritos anteriormente.  La información utilizada para generar los archivos con datos de precipitación máxima fue proporcionada por la Agencia Estatal de Meteorología (AEMET).
